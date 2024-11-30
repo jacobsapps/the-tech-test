@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Father Gascoigne",
+        "location": "Central Yharnam",
+        "health": 2525,
+        "description": "A hunter turned mad by the blood, wielding an axe and a blunderbuss, who transforms into a beast mid-fight.",
+        "imageURL": "https://static.wikia.nocookie.net/bloodborne/images/6/64/Image_bloodborne-Priest_Gascoigne.jpg/revision/latest?cb=20141206130644"
+    },
+    {
+        "name": "Lady Maria of the Astral Clocktower",
+        "location": "Astral Clocktower",
+        "health": 15100,
+        "description": "A tragic hunter and former student of Gehrman, wielding dual blades and harnessing the power of blood and fire.",
+        "imageURL": "https://static.wikia.nocookie.net/bloodborne/images/8/88/Bloodborne™_20151126093114.png/revision/latest?cb=20151126073203"
+    },
+    {
+        "name": "Ludwig, Holy Blade",
+        "location": "Underground Corpse Pile",
+        "health": 18405,
+        "description": "A former holy knight who transformed into a horrific beast, only to remember his past glory in the second phase.",
+        "imageURL": "https://bloodborne.wiki.fextralife.com/file/Bloodborne/ludwig.jpg"
+    },
+    {
+        "name": "Orphan of Kos",
+        "location": "Fishing Hamlet",
+        "health": 13750,
+        "description": "The tragic child of the Great One Kos, wielding the remains of its mother as a weapon in a furious, unpredictable battle.",
+        "imageURL": "https://static.wikia.nocookie.net/bloodborne/images/6/69/Bloodborne™_20151208091300.png/revision/latest?cb=20151218070525"
+    },
+    {
+        "name": "Ebrietas, Daughter of the Cosmos",
+        "location": "Altar of Despair",
+        "health": 13880,
+        "description": "A kin of the Great Ones, Ebrietas is a massive, otherworldly creature who can channel arcane magic.",
+        "imageURL": "https://static.wikia.nocookie.net/bloodborne/images/3/37/0wDg2lE.png/revision/latest?cb=20180314050458"
+    },
+    {
+        "name": "Martyr Logarius",
+        "location": "Cainhurst Castle",
+        "health": 15000,
+        "description": "A fanatical and powerful hunter of the Vilebloods, now a ghostly king who guards the entrance to their throne room.",
+        "imageURL": "https://bloodborne.wiki.fextralife.com/file/Bloodborne/Martyr_Logarius.jpg"
+    },
+    {
+        "name": "The One Reborn",
+        "location": "Yahar'gul, Unseen Village",
+        "health": 13500,
+        "description": "A grotesque amalgamation of corpses birthed from the nightmare, wielding dark magic and immense power.",
+        "imageURL": "https://bloodborne.wiki.fextralife.com/file/Bloodborne/one_reborn.jpg"
+    },
+    {
+        "name": "Gehrman, The First Hunter",
+        "location": "Hunter's Dream",
+        "health": 10900,
+        "description": "The first hunter and caretaker of the Hunter's Dream, who wields a scythe with deadly precision.",
+        "imageURL": "https://static.wikia.nocookie.net/bloodborne/images/6/60/Image-bloodborne-c01.jpg/revision/latest?cb=20150321135203"
+    },
+    {
+        "name": "Amygdala",
+        "location": "Nightmare Frontier",
+        "health": 15380,
+        "description": "A Great One with multiple limbs, attacking with a combination of physical might and arcane power.",
+        "imageURL": "https://bloodborne.wiki.fextralife.com/file/Bloodborne/Amygdala.jpg"
+    },
+    {
+        "name": "Mergo's Wet Nurse",
+        "location": "Nightmare of Mensis",
+        "health": 11000,
+        "description": "A towering, spectral entity who guards the infant Great One, Mergo, wielding multiple blades with swift, lethal precision.",
+        "imageURL": "https://bloodborne.wiki.fextralife.com/file/Bloodborne/mergos_wet_nurse.jpg"
+    },
+    {
+        "name": "Vicar Amelia",
+        "location": "Cathedral Ward",
+        "health": 6100,
+        "description": "A towering beast with a healing factor, formerly the Vicar of the Healing Church, now corrupted by the blood.",
+        "imageURL": "https://bloodborne.wiki.fextralife.com/file/Bloodborne/vicar_amelia.jpg"
+    },
+    {
+        "name": "Blood-starved Beast",
+        "location": "Old Yharnam",
+        "health": 4497,
+        "description": "A hideously emaciated creature, driven mad by thirst for blood, spreading poison with its attacks.",
+        "imageURL": "https://bloodborne.wiki.fextralife.com/file/Bloodborne/blood-starved_beast.jpg"
+    }
+]
